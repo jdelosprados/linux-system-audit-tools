@@ -1,3 +1,3 @@
-## Linux System Audit Tools
+# Linux System Audit Tools
 
-# Collection of tools to help check Linux systems for compromise and ensure system integrity.
+### Growing collection of tools to help check Linux system integrity.
